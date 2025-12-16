@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Student performance project
 
 #download and load the datasets
@@ -153,4 +154,5 @@ plt.show()
 #Simplified way using sns
 sns.regplot(x=y_test, y=y_pred, scatter_kws={'alpha':0.2, 'color': 'black'}, line_kws={'color':'red'})
 plt.show()
+
 
