@@ -3,7 +3,7 @@
     #Variables (letters, numbers, underscores)
     #Data types (A. Integers (int), B. Floating-Point numbers(float), C. Strings(str), D. Booleans(bool))
 
-your_first_name = 'Yusheng'
+your_first_name = 'XXX'
 your_age = 'Thrity three'
 your_gpa = 3.5
 is_registered = True
